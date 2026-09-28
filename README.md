@@ -9,7 +9,7 @@
 
 ### 🚀 Featured work
 
-#### 🌾 KEYVAN — premium rice brand storefront
+#### 🌾 [KEYVAN — premium rice brand storefront](https://keyvanrice.com) · [🔗 keyvanrice.com](https://keyvanrice.com)
 Persian-first production storefront for the **KEYVAN / کیوان** rice brand. Editorial landing page, catalogue, product-selection and comparison tools, wholesale and brand pages, and a WhatsApp order-request flow designed around how the business actually sells. The design direction was picked from four competing prototypes built in a dedicated design lab.
 <br/>`Next.js 16` `React 19` `TypeScript` `Tailwind CSS 4` `GSAP` `Motion` `Playwright`
 
@@ -29,7 +29,7 @@ Manual MT5 order panel with safety built in: tick-aware position sizing from acc
 Persian RTL storefront with cart, search, quick-view, filters, editorial storytelling and a custom motion system.
 <br/>`Next.js 14` `TypeScript` `Zustand` `GitHub Actions`
 
-> Most of this work is private client or product code. Demos and walkthroughs are available on request.
+> KEYVAN is live at **[keyvanrice.com](https://keyvanrice.com)**. The rest is private client or product code; demos and walkthroughs are available on request.
 
 ### 🛠️ Tech stack
 
